@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white
+}
+
+.editslider {
+    margin-bottom: 20px;
+}
+
+.editimage {
+        border: 10px solid chocolate;
+    border-radius: 20px;
+    
+}
+
+.text-info {
+    color: white !important;
+        text-shadow: 2px 2px chocolate;
+}
+
+.table {
+    color: white !important;
+}
